@@ -1,4 +1,4 @@
-# go to predict_docker folder and follow the steps to run and save the docker
+# Go to prediction_docker folder and follow the steps to run and save the docker
 
 ## donwload weight from here.
 
